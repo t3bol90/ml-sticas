@@ -1,0 +1,13 @@
+# Copyright (C) 2026 Toan Doan
+# SPDX-License-Identifier: Apache-2.0
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+.coverage
+.pytest_cache/
+.ruff_cache/
+.venv/
+build/
+dist/
+uv.lock
